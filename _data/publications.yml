@@ -1,22 +1,57 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Accurate and scalable deep Maxwell solvers"
+    authors: <strong><u>Chenkai Mao</u></strong>, Jonathan A Fan*
+    # conference_short: PNAS
+    # conference: Proceedings of the National Academy of Sciences of the United States of America, 2026.
+    pdf: https://arxiv.org/abs/2509.03622
+    image: ./assets/img/teaser_accurate2026.png
+    notes: Under review
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: 3D nanolithography with metalens arrays and spatially adaptive illumination
+    authors: <u>Songyun Gu</u>, <strong><u>Chenkai Mao</u></strong>, Anna Guell Izard, Sarvesh Sadana, Dongping Terrel-Perez, Magi Mettry-Yassa, Wonjin Choi, Wenjie Zhou, Hujie Yan, Ziran Zhou, Travis Massey, Alex Abelson, You Zhou, Sijia Huang, Chiara Daraio, Thejaswi Umanath Tumkur, Jonathan A Fan*, Xiaoxing Xia*
+    conference_short: Nature
+    conference: <strong>Nature</strong>, 2025.
+    pdf: https://www.nature.com/articles/s41586-025-09842-x
+    image: ./assets/img/teaser_3D2025.png
+    # notes: Early Accept
+
+  - title: "A multi-agentic framework for real-time, autonomous freeform metasurface design"
+    authors: <u>Robert Lupoiu</u>, Yixuan Shao, Tianxiang Dai, <strong>Chenkai Mao</strong>, Kofi Edée, Jonathan A Fan*
+    conference_short: Science Advances
+    conference: <strong>Science Advances</strong>, 2025.
+    pdf: https://www.science.org/doi/pdf/10.1126/sciadv.adx8006
+    image: ./assets/img/teaser_multi2025.png
+    # notes: Early Accept
+
+  - title: "Shaping freeform nanophotonic devices with geometric neural parameterization"
+    authors: <u>Tianxiang Dai</u>, Yixuan Shao, <strong>Chenkai Mao</strong>, Yu Wu, Sara Azzouz, You Zhou, Jonathan A Fan*
+    conference_short: npj
+    conference: <strong>Nature Computational Materials</strong>, 2025.
+    pdf: https://www.nature.com/articles/s41524-025-01752-w
+    image: ./assets/img/teaser_shaping2025.png
+    # notes: Early Accept
+
+  - title: "Large‐area, high‐numerical‐aperture, freeform metasurfaces"
+    authors: <u>You Zhou</u>, <strong><u>Chenkai Mao</u></strong>, Erez Gershnabel, Mingkun Chen, Jonathan A Fan*
+    conference_short: LPR
+    conference: <strong>Laser & Photonics Reviews</strong>, 2024.
+    pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202300988
+    image: ./assets/img/teaser_large2024.png
+    # notes: Early Accept
+  
+  - title: "Towards General Neural Surrogate Solvers with Specialized Neural Accelerators"
+    authors: <strong><u>Chenkai Mao</u></strong>, Robert Lupoiu, Tianxiang Dai, Mingkun Chen, Jonathan A Fan*
+    conference_short: ICML
+    conference: <strong>International Conference on Machine Learning</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.02351
+    image: ./assets/img/teaser_towards2024.png
+    # notes: Early Accept
+  
+  - title: "High speed simulation and freeform optimization of nanophotonic devices with physics-augmented deep learning"
+    authors: <u>Mingkun Chen</u>, <u>Robert Lupoiu</u>, <strong><u>Chenkai Mao</u></strong>, <u>Der-Han Huang</u>, Jiaqi Jiang, Philippe Lalanne, Jonathan A Fan*
+    conference_short: ACS Photonics
+    conference: <strong>ACS Photonics</strong>, 2022.
+    pdf: https://pubs.acs.org/doi/abs/10.1021/acsphotonics.2c00876
+    image: ./assets/img/teaser_high2022.png
+    # notes: Early Accept

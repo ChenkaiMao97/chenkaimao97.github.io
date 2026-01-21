@@ -104,7 +104,7 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Ubuntu Mono";
 }
 
@@ -216,8 +216,8 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        width: 90%;
+        padding: 10px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
@@ -296,7 +296,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  width:1200px;
   margin:0 auto;
 }
 
@@ -356,7 +356,7 @@ img {
 }
 
 header {
-  width:232px;
+  width:250px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -393,7 +393,7 @@ header li:last-child a {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:18px;
   color:#999;
   display:block;
   text-align:center;
@@ -432,7 +432,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:880px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
